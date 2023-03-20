@@ -1,2 +1,1 @@
-# optiver-ready-trader-go
-Some of my strategies for Optiver's Ready Trader Go competition
+Two of my strategies for Optiver's Ready Trader Go competition. One uses a rolling regression/hedge ratio method, while the other one is a simpler market maker that uses dynamic spread and rebalancing mechanisms. The simple market maker tends to do better in testing.
